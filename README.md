@@ -1,4 +1,19 @@
-<p align="center"><img src="https://statamic.com/assets/branding/Statamic-Logo+Wordmark-Rad.svg" width="400" alt="Statamic Logo" /></p>
+# Githyanki
+
+## About Githyanki
+
+Githyanki is a starter git for Statamic 3
+
+
+## Warning
+
+Unless you know what you're doing there's probably no reason to use this starter kit. Why? Because I don't really know 
+what __I'm__ doing. This is for me to learn about Statamic 3 and to use as a starter kit for my projects. That said, 
+I hope this will be of use to someone one day.
+
+
+## Below is included from Statamic's README
+### I'll remove this when it's appropriate
 
 ## About Statamic 3
 
