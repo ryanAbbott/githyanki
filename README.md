@@ -2,7 +2,7 @@
 
 ## About Githyanki
 
-Githyanki is a starter git for Statamic 3
+Githyanki is a starter theme for Statamic 3
 
 
 ## Warning
