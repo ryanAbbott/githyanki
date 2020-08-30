@@ -8,8 +8,9 @@ Githyanki is a starter theme for Statamic 3
 ## Warning
 
 Unless you know what you're doing there's probably no reason to use this starter kit. Why? Because I don't really know 
-what __I'm__ doing. This is for me to learn about Statamic 3 and to use as a starter kit for my projects. That said, 
-I hope this will be of use to someone one day.
+what __I'm__ doing. This is for me to learn about Statamic 3 and to use as a starter kit for my projects. Though you are
+welcome to use it or check it out if you'd like. And any feedback is appreciated. That said, I hope this will be of use
+to someone one day.
 
 
 ## Below is included from Statamic's README
